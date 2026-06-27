@@ -49,7 +49,7 @@ To run this project on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/MuhammadTahir-1-9-4/Global-Terrorism-Analysis.git
+    git clone https://github.com/mtahir-ds/Global-Terrorism-Analysis.git
     cd Global-Terrorism-Analysis
     ```
 
